@@ -1,4 +1,4 @@
-# 🎵 音乐可视化器 (Music Visualizer)
+# 🎵 Music Visualizer
 
 一款基于 Python 的实时桌面音频可视化工具，为你的电脑屏幕注入音乐的律动。
 
@@ -12,13 +12,13 @@
 
 ## 📦 环境要求
 
-- **操作系统**：Windows 10 / 11
-- **Python 版本**：3.11 或更高版本（安装时请勾选 **Add to PATH**）
+- **Operating System**: Windows 10 / 11
+- **Python version**: 3.11 or higher (make sure to check **Add to PATH** during installation)
 - **音频设备**：声卡（支持环回捕获，无需外设）
 
 ## 🚀 快速开始
 
-1. **安装 Python**：前往 [python.org](https://www.python.org/downloads/) 下载并安装 Python 3.11+。
+1. **Install Python**: Go to [python.org](https://www.python.org/downloads/) and download and install Python 3.11.
 2. **一键安装**：双击项目根目录下的 `install.bat` 自动安装依赖。
 3. **启动应用**：双击 `start.bat` 启动可视化器。
 
